@@ -5,7 +5,7 @@
 //  Created by Akshat  Saladi on 2/21/25.
 //
 
-# Hero Coach 🧢
+# Hero Coach 🧢 | 🍎 Swift Student Challenge 2025 Submission
 ### A goals experience for you
 
 ## Quick Demo: https://www.youtube.com/watch?v=A0phG_YCdII
