@@ -8,7 +8,7 @@
 # Hero Coach 🧢
 ### A goals experience for you
 
-## Quick Demo: https://youtu.be/hrKuWgDjMjI
+## Quick Demo: https://www.youtube.com/watch?v=A0phG_YCdII
 
 ## The problem
 Hero Coach explores the stress and anxiety when a person has too much on their plate. Hero Coach aims to alleviate this by allowing users to organize their thoughts and provide tailored advice to help achieve their goals. Through using this app, you become your own hero.
