@@ -13,7 +13,7 @@
 ## The problem
 Hero Coach explores the stress and anxiety when a person has too much on their plate. Hero Coach aims to alleviate this by allowing users to organize their thoughts and provide tailored advice to help achieve their goals. Through using this app, you become your own hero.
 
-## Why and how
+## Why, How, and What
 I was inspired to build Hero Coach by the challenges I faced last summer while trying to lose weight. Going into the summer I was at an unhealthy weight that I wanted to lose it, but I was overwhelmed with an overload of information online. Including caloric deficits, protein intake, cardio, and weightlifting. I struggled to stay consistent. However, I found light at the end of the tunnel by taking it one day at a time. I took the approach of setting realistic, achievable goals. This relieved a lot of my stress and built momentum through small wins. This is what Hero Coach aims to solve, organize your goals and make them achievable.
 
 This app is designed for users who feel overwhelmed by many goals, Hero Coach takes a person’s aspirations and transforms them into actionable steps. Built using MVVM architecture, it leverages SwiftUI, SwiftData, CreateML, CoreML, NaturalLanguage, Speech, AVFoundation, and PhotosUI.
